@@ -115,6 +115,8 @@ Please review the narrative of our analysis in [our jupyter notebook](./jupyter_
 
 For any additional questions, please reach out via email at santana2.miguel@gmail.com, on [LinkedIn](https://www.linkedin.com/in/miguel-angel-santana-ii-mba-51467276/) or on [Twitter.](https://twitter.com/msantana_ds)
 
+A blog post on this analysis can be found on [Medium.](https://miguelangelsantana.medium.com/sales-forecasting-with-facebook-prophet-b0ff2fbee5de)
+
 #### Sources
 
 Notes and file sources can be found on Udemy. 
