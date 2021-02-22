@@ -111,7 +111,7 @@ While our analysis is limited, its worth noting that the top store is near compe
 Future work should include additional store level data such as employees in store, online sales, product information and geographic information to consider additional external factors through feature engineering. 
 
 ### Further Information
-Please review the narrative of our analysis in [our jupyter notebook](./jupyter_notebook.ipynb) or review our [presentation](/powerpoint/powerpoint.pdf)
+Please review the narrative of our analysis in [our jupyter notebook](./jupyter_notebook.ipynb) or review our [presentation](./presentation.pdf)
 
 For any additional questions, please reach out via email at santana2.miguel@gmail.com, on [LinkedIn](https://www.linkedin.com/in/miguel-angel-santana-ii-mba-51467276/) or on [Twitter.](https://twitter.com/msantana_ds)
 
