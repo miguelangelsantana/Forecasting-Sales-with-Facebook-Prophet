@@ -123,7 +123,7 @@ Notes and file sources can be found on Udemy.
 
 * Course Name: Data Science for Business by Ryan Ahmed
 
-##### Repository Structure:
+##### Repository Structure
 
 ```
 
